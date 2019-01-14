@@ -1,42 +1,22 @@
-# Dev Landing Page
+# Jeremy Scala
 
-Minimal landing page for developers.
+Salut, moi c'est Jeremy et j'apprends l'html (et le reste) chez **BeCode**
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+Je m'y connais un peu, je bidouille quoi. Maintenant j'en veux plus!
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Pourquoi?
 
-I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
+Pour un jour travailler en tant que développeur web dans une boite!
 
-So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
+## Mon passé
 
-## Themes
+J'ai fait des études de graphisme à St-Luc Liège en secondaire.
+Vous pouvez retrouver [ma page DeviantArt](http://thejameskiller.deviantart.com)
 
-Dev Landing Page comes in 9 **material themes**.
+## Mes hobbies
 
-![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
-
-If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
-
-## GitHub Pages
-
-GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
-
-If you already have a GitHub profile (obviously)
-
-* Create a new repo with the name `{username}.github.io`
-* Clone/Fork this repo and copy the files to your newly created repo
-* Customize your name, links and everything else for your landing page
-* `git push`
-
-Voila! Your site should be live at `https://{username}.github.io`
-
-Here's mine, but I revamped my **Dev Landing Page** with React and some magic - [Dinesh Pandiyan](https://flexdinesh.github.io)
-
-### Custom Domain
-
-If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
-
-## License
-
-MIT © Dinesh Pandiyan
+* Jeux de société
+* Jeux vidéo
+* Cinéma
+* Séries
+* Technologies
