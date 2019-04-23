@@ -1,4 +1,5 @@
 # Jeremy Scala
+[Ma page d'accueil](http://scalajeremy.github.io)
 
 Salut, moi c'est Jeremy et j'apprends l'html (et le reste) chez **BeCode**
 
